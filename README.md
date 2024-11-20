@@ -17,11 +17,13 @@ Now, I am actively applying the skills and knowledge from my master's program to
 
 Goal: To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
 
-Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
-
 Tools: Python (Pandas, Openpyxl)
 
 Results: The script outputs a completed reconciliation Excel report that includes a Summary Sheet, which shows the total daily amounts for each channel and highlights differences; Raw Data Sheets, containing detailed transaction records from both datasets; and an Unmatched Details Sheet, listing transactions with amount discrepancies or those present in only one dataset.
+
+Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
+
+More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/README.md)
 
 3. 
 
