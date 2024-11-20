@@ -12,8 +12,7 @@ Now, I am actively applying the skills and knowledge from my master's program to
 - Email: chayanid.cb@gmail.com
 
 ## Portfolio Projects
-### Tasks Automation with Python
-**1. Project: Automated Reconciliation Report**
+### 1. Project: Automated Reconciliation Report
 
 Goal: To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
 
