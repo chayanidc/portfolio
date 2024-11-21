@@ -4,7 +4,7 @@
 To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
 
 ### Tools
-Python (Pandas, Openpyxl)
+- Python (Pandas, Openpyxl)
 
 ### Results
 The script outputs a completed reconciliation Excel report that includes:
