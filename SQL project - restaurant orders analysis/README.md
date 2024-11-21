@@ -25,7 +25,7 @@ To analyze customer data and gain insights into menu performance and customer pr
 - The largest single order contained 14 items.
 
 3. Merged Data Insights
-- Bestsellers: The most popular dishes are Hamburger, Edamame, Korean Beef Bowl, Cheeseburger, and French Fries, predominantly from Asian and American cuisines.
-- Least Sellers: The least popular dishes are Mexican Chicken Tacos, Asian Potstickers, and Italian Lasagna.
+- The most popular dishes are Hamburger, Edamame, Korean Beef Bowl, Cheeseburger, and French Fries, predominantly from Asian and American cuisines.
+- The least popular dishes are Mexican Chicken Tacos, Asian Potstickers, and Italian Lasagna.
 - High-Value Orders: The top 5 highest-value orders averaged around $190 each, with customers favoring Italian dishes in these orders, while American dishes were the least preferred. The most frequently ordered item is Eggplant Parmesan, an Italian dish.
 
