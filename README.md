@@ -33,6 +33,12 @@ Goal : To analyze customer data and gain insights into menu performance and cust
 
 Tools: SQL
 
+Key Insights:
+- Italian dishes are the most expensive and have the highest average price, while American dishes are the least expensive.
+- Average order size is approximately 2.28 dishes per order
+- Bestselling items include Hamburger, Edamame, and Korean Beef Bowl, while least popular are Chicken Tacos, Potstickers, and Lasagna.
+- High-value orders (around $190) tend to favor Italian cuisine.
+
 Code: [restaurant-orders-analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
 
 More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
