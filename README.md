@@ -17,17 +17,17 @@ Now, I am actively applying the skills and knowledge from my master's program to
 Background:
 The dataset analyzed is from Olist, a Brazilian e-commerce platform that connects small businesses to larger marketplaces. The data includes 99,441 orders from March 2016 to August 2018 and has been anonymized to protect customer and seller identities. The dataset offers a comprehensive view of e-commerce operations, covering details such as order status, price, payment methods, freight performance, customer locations, product attributes, and customer reviews. It also includes a geolocation dataset linking Brazilian zip codes to latitude and longitude coordinates.
 
-Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 Goal: To analyze Olist E-commerce sales trends using SQL for data querying, Python for data manipulation, and Matplotlib for data visualization. The analysis aims to uncover key insights into sales performance, product trends, and delivery peerformance.
 
-Tools: Python(Pandas, Matplotlib), SQL
+Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ERD
 
 <img width="828" alt="ERD" src="https://github.com/user-attachments/assets/20d1634c-3a9f-423e-93c2-f7df43d305fa">
 
-Code: [OOlist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
+Tools: Python(Pandas, Matplotlib), SQL
+
+Code: [Olist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
 
 Insights Deep-Dive
 
