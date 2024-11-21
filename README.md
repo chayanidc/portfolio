@@ -12,7 +12,7 @@ Now, I am actively applying the skills and knowledge from my master's program to
 - Email: chayanid.cb@gmail.com
 
 ## Portfolio Projects
-### 1. Project: Automated Reconciliation Report
+### 1. Python Project: Automated Reconciliation Report
 
 Goal: To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
 
@@ -24,9 +24,21 @@ Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portf
 
 More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/README.md)
 
-3. 
+### 2. SQL Project: Restaurant Orders Analysis
 
-### SQL
+Goal : To analyze customer data and gain insights into menu performance and customer preferences. The analysis focuses on:
+1. Exploring the menu_items table to understand the menu offerings.
+2. Exploring the order_details table to review collected order data.
+3. Combining both tables to evaluate customer reactions to the menu, including new items.
 
-### Data Analysis with Python and R
+Tools: SQL
+
+Results: 
+
+Code: [restaurant-orders-analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
+
+More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
+
+### 3. SQL Project: Automated Reconciliation Report
+### 4. SQL Project: Automated Reconciliation Report
 
