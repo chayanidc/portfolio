@@ -22,6 +22,10 @@ Goal:
 
 To analyze Olist E-commerce sales trends using SQL for data querying, Python for data manipulation, and Matplotlib for data visualization. The analysis aims to uncover key insights into sales performance, product trends, and delivery peerformance.
 
+Code: [Olist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
+
+Insights Deep-Dive: [Olist E-commerce Data Analysis-README](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/README.md)
+
 Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ERD:
@@ -29,10 +33,6 @@ ERD:
 <img width="828" alt="ERD" src="https://github.com/user-attachments/assets/20d1634c-3a9f-423e-93c2-f7df43d305fa">
 
 Tools: Python(Pandas, Matplotlib), SQL
-
-Code: [Olist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
-
-Insights Deep-Dive: [Olist E-commerce Data Analysis-README]([https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/README.md)
 
 ### 2. Restaurant Orders Analysis
 
@@ -53,7 +53,7 @@ Key Insights:
 
 Code: [Restaurant Orders Analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
 
-More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
+Insights Deep-Dive: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
 
 ### 3. Automated Reconciliation Report
 
