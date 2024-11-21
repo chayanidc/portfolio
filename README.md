@@ -15,13 +15,16 @@ Now, I am actively applying the skills and knowledge from my master's program to
 ### 1. Olist E-commerce Data Analysis
 
 Background:
+
 The dataset analyzed is from Olist, a Brazilian e-commerce platform that connects small businesses to larger marketplaces. The data includes 99,441 orders from March 2016 to August 2018 and has been anonymized to protect customer and seller identities. The dataset offers a comprehensive view of e-commerce operations, covering details such as order status, price, payment methods, freight performance, customer locations, product attributes, and customer reviews. It also includes a geolocation dataset linking Brazilian zip codes to latitude and longitude coordinates.
 
-Goal: To analyze Olist E-commerce sales trends using SQL for data querying, Python for data manipulation, and Matplotlib for data visualization. The analysis aims to uncover key insights into sales performance, product trends, and delivery peerformance.
+Goal: 
+
+To analyze Olist E-commerce sales trends using SQL for data querying, Python for data manipulation, and Matplotlib for data visualization. The analysis aims to uncover key insights into sales performance, product trends, and delivery peerformance.
 
 Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-ERD
+ERD:
 
 <img width="828" alt="ERD" src="https://github.com/user-attachments/assets/20d1634c-3a9f-423e-93c2-f7df43d305fa">
 
@@ -29,12 +32,13 @@ Tools: Python(Pandas, Matplotlib), SQL
 
 Code: [Olist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
 
-Insights Deep-Dive
-
+Insights Deep-Dive: [Olist E-commerce Data Analysis-README]([https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/README.md)
 
 ### 2. Restaurant Orders Analysis
 
-Goal : To analyze customer data and gain insights into menu performance and customer preferences. The analysis focuses on:
+Goal : 
+
+To analyze customer data and gain insights into menu performance and customer preferences. The analysis focuses on:
 1. Exploring the menu_items table to understand the menu offerings.
 2. Exploring the order_details table to review collected order data.
 3. Combining both tables to evaluate customer reactions to the menu, including new items.
