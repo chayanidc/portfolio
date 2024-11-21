@@ -12,19 +12,27 @@ Now, I am actively applying the skills and knowledge from my master's program to
 - Email: chayanid.cb@gmail.com
 
 ## Portfolio Projects
-### 1. Python Project: Automated Reconciliation Report
+### 1. Olist E-commerce Data Analysis
 
-Goal: To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
+Background:
+The dataset analyzed is from Olist, a Brazilian e-commerce platform that connects small businesses to larger marketplaces. The data includes 99,441 orders from March 2016 to August 2018 and has been anonymized to protect customer and seller identities. The dataset offers a comprehensive view of e-commerce operations, covering details such as order status, price, payment methods, freight performance, customer locations, product attributes, and customer reviews. It also includes a geolocation dataset linking Brazilian zip codes to latitude and longitude coordinates.
 
-Tools: Python (Pandas, Openpyxl)
+Data source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-Results: The script outputs a completed reconciliation Excel report that includes a Summary Sheet, which shows the total daily amounts for each channel and highlights differences; Raw Data Sheets, containing detailed transaction records from both datasets; and an Unmatched Details Sheet, listing transactions with amount discrepancies or those present in only one dataset.
+Goal: To analyze Olist E-commerce sales trends using SQL for data querying, Python for data manipulation, and Matplotlib for data visualization. The analysis aims to uncover key insights into sales performance, product trends, and delivery peerformance.
 
-Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
+Tools: Python(Pandas, Matplotlib), SQL
 
-More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/README.md)
+ERD
 
-### 2. SQL Project: Restaurant Orders Analysis
+<img width="828" alt="ERD" src="https://github.com/user-attachments/assets/20d1634c-3a9f-423e-93c2-f7df43d305fa">
+
+Code: [OOlist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
+
+Insights Deep-Dive
+
+
+### 2. Restaurant Orders Analysis
 
 Goal : To analyze customer data and gain insights into menu performance and customer preferences. The analysis focuses on:
 1. Exploring the menu_items table to understand the menu offerings.
@@ -39,10 +47,18 @@ Key Insights:
 - Bestselling items include Hamburger, Edamame, and Korean Beef Bowl, while least popular are Chicken Tacos, Potstickers, and Lasagna.
 - High-value orders (around $190) tend to favor Italian cuisine.
 
-Code: [restaurant-orders-analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
+Code: [Restaurant Orders Analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
 
 More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
 
-### 3. SQL Project: Automated Reconciliation Report
-### 4. SQL Project: Automated Reconciliation Report
+### 3. Automated Reconciliation Report
 
+Goal: To create an automated reconciliation report comparing two datasets (e.g., company transaction data and external source data), showing the daily total amounts for each channel, the differences between the two channels, and the unmatched transaction details.
+
+Tools: Python (Pandas, Openpyxl)
+
+Results: The script outputs a completed reconciliation Excel report that includes a Summary Sheet, which shows the total daily amounts for each channel and highlights differences; Raw Data Sheets, containing detailed transaction records from both datasets; and an Unmatched Details Sheet, listing transactions with amount discrepancies or those present in only one dataset.
+
+Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
+
+More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/blob/main/Python%20project%20-%20Automated%20Reconciliation%20Report/README.md)
