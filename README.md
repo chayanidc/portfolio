@@ -33,8 +33,6 @@ Goal : To analyze customer data and gain insights into menu performance and cust
 
 Tools: SQL
 
-Results: 
-
 Code: [restaurant-orders-analysis.sql](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
 
 More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/SQL%20project%20-%20restaurant%20orders%20analysis/README.md)
