@@ -30,12 +30,12 @@ Tools:
 Python(Pandas, Matplotlib), SQL
 
 Key Insights:
-1. Revenue and orders have declined since May 2018, though average revenue per order is stable.
-2. Best-selling categories are Health & Beauty, Watches & Gifts, and Sports Leisure.
-3. High-priced items include Computers and Watches, while low-priced ones are Food & Drink and Female Fashion.
-4. Frequent buyers place 7-14 orders, with top cities for revenue being Abaetetuba, Abaeta, and Abelardo Luz.
-5. Delivery times improved after August 2018, but late orders and shipping costs are rising.
-6. Most customers pay by credit card, followed by boleto at 17%.
+- Revenue and orders have declined since May 2018, though average revenue per order is stable.
+- Best-selling categories are Health & Beauty, Watches & Gifts, and Sports Leisure.
+- High-priced items include Computers and Watches, while low-priced ones are Food & Drink and Female Fashion.
+- Frequent buyers place 7-14 orders, with top cities for revenue being Abaetetuba, Abaeta, and Abelardo Luz.
+- Delivery times improved after August 2018, but late orders and shipping costs are rising.
+- Most customers pay by credit card, followed by boleto at 17%.
 
 Recommendations:
 1. Investigate declining orders and strategize to regain momentum.
