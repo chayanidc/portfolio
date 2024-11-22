@@ -48,7 +48,7 @@ Recommendations:
 
 Code: [Olist E-commerce Data Analysis.ipynb](https://github.com/chayanidc/portfolio/blob/main/Olist%20E-commerce%20Data%20Analysis/Olist%20E-commerce%20Data%20Analysis.ipynb)
 
-More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/tree/main/Olist%20E-commerce%20Data%20Analysis)
+More Details: [Olist E-commerce Data Analysis-README](https://github.com/chayanidc/portfolio/tree/main/Olist%20E-commerce%20Data%20Analysis)
 
 ### 2. Restaurant Orders Analysis
 
