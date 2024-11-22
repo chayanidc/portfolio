@@ -63,8 +63,8 @@ SQL
 
 Data Source:
 https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=restaurant
-menu_items: Contains menu details, including item_id, item_name, category, and price.
-order_details: Contains order information, including order_id, order_date, order_time, and item_id.
+- menu_items: Contains menu details, including item_id, item_name, category, and price.
+- order_details: Contains order information, including order_id, order_date, order_time, and item_id.
 
 Key Insights:
 - Italian dishes are the most expensive and have the highest average price, while American dishes are the least expensive.
