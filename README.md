@@ -78,9 +78,9 @@ Recommendations:
 3. Since customers usually order about 2-3 dishes, create combo sets with a main dish and a side to encourage bigger orders.
 4. Italian dishes are ordered in high-value meals. Make a special Italian Premium Menu with fancy or seasonal options for these customers.
 
-Code: [Restaurant Orders Analysis.sql](https://github.com/chayanidc/portfolio/blob/main/restaurant%20orders%20analysis/restaurant-orders-analysis.sql)
+Code: [Restaurant Orders Analysis.sql](https://github.com/chayanidc/portfolio/blob/main/Restaurant%20Orders%20Analysis/Restaurant%20Orders%20Analysis.sql)
 
-More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/blob/main/restaurant%20orders%20analysis)
+More Details: [Restaurant Orders Analysis-README](https://github.com/chayanidc/portfolio/tree/main/Restaurant%20Orders%20Analysis)
 
 ### 3. Automated Reconciliation Report
 
@@ -97,6 +97,6 @@ Python (Pandas, Openpyxl)
 Results: 
 The script outputs a completed reconciliation Excel report that includes a Summary Sheet, which shows the total daily amounts for each channel and highlights differences; Raw Data Sheets, containing detailed transaction records from both datasets; and an Unmatched Details Sheet, listing transactions with amount discrepancies or those present in only one dataset.
 
-Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/utomated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
+Code: [Automated Reconciliation Report.ipynb](https://github.com/chayanidc/portfolio/blob/main/Automated%20Reconciliation%20Report/Automated%20Reconciliation%20Report.ipynb)
 
-More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/blob/main/Automated%20Reconciliation%20Report)
+More Details: [Automated Reconciliation Report-README](https://github.com/chayanidc/portfolio/tree/main/Automated%20Reconciliation%20Report)
