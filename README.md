@@ -8,7 +8,7 @@ Now, I am actively applying the skills and knowledge from my master's program to
 
 ## Contacts
 
-- Linkedin: [@chayanid.cb](https://www.linkedin.com/in/chayanid-chaibawonwiwath-67a1b5210)
+- Linkedin: [@chayanid.cb](https://www.linkedin.com/in/chayanid-chaibawonwiwath/)
 - Email: chayanid.cb@gmail.com
 
 ## Portfolio Projects
